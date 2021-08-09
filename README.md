@@ -8,5 +8,5 @@ Currently TCP and SCTP can be used for file download. However, mobility support 
 To run the MobileClient program, run as below:
 
 ```
-java MobileClient <server IP> <servrer Port> <client Port for data> <Protocol=tcp or sctp>
+java MobileClient <server IP> <servrer Port> <client Port for data> <File name> <Protocol=tcp or sctp>
 ```
